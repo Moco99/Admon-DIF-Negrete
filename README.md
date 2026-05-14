@@ -84,17 +84,6 @@ El sistema sigue una arquitectura de **microservicios lógicos** dentro de un mo
 
 ---
 
-## 🚀 Instalación y Desarrollo
-
-Este proyecto está configurado para un entorno de producción específico. No obstante, para fines de revisión de código:
-
-1.  **Clonar el repositorio:** `git clone https://github.com/tu-usuario/AdministracionNegrete.git`
-2.  **Instalar dependencias:** `pnpm install` en ambas carpetas (`backend` y `frontend`).
-3.  **Configurar variables de entorno:** Consultar los archivos `.env.example` en cada módulo.
-4.  **Ejecutar en desarrollo:** `pnpm dev`.
-
----
-
 ## 🛡️ Seguridad
 
 El sistema implementa múltiples capas de seguridad:
