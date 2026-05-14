@@ -76,11 +76,11 @@ El sistema sigue una arquitectura de **microservicios lógicos** dentro de un mo
 
 | Login | Dashboard |
 |:---:|:---:|
-| ![Login](/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](/login.png) | ![Dashboard](/dashboard.png) |
 
 | Inscripción | Listado de Grupos |
 |:---:|:---:|
-| ![Inscripción](./screenshots/inscripcion.png) | ![Grupos](./screenshots/grupos.png) |
+| ![Inscripción](/inscripcion.png) | ![Grupos](/grupos.png) |
 
 ---
 
