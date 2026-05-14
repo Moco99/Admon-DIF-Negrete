@@ -76,7 +76,7 @@ El sistema sigue una arquitectura de **microservicios lógicos** dentro de un mo
 
 | Login | Dashboard |
 |:---:|:---:|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](/login.png) | ![Dashboard](./screenshots/dashboard.png) |
 
 | Inscripción | Listado de Grupos |
 |:---:|:---:|
